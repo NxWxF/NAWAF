@@ -1,2 +1,2 @@
 # robot parts
-SMART METHODS TASK
+SMART METHODS mechanics TASK
